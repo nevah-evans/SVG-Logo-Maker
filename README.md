@@ -1,6 +1,7 @@
 # SVG-Logo-Maker
 
 This application can be used to create a simple SVG logo using prompts in the terminal of your editor (such as VS Code), rendering a finished product within a new file.
+A link for a walkthrough video can be found at the bottom of the README for those who prefer a visual guide.
 
 ## Installation
 
@@ -43,3 +44,8 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Video Walkthrough
+
+https://drive.google.com/file/d/1w4lCGtQQv-E4Oz9ZxxQ0Ij9AB3kcePlg/view?usp=sharing
