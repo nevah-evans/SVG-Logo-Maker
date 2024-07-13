@@ -19,10 +19,13 @@ Follow the following steps to get answer the questions required to generate your
 node index.js
 ```
 A series of questions will pop up in your command line. Answer the following prompts and a new logo will be generated!!
+
+
 ![Screenshot 2024-07-13 132625](https://github.com/user-attachments/assets/dc0da090-ddb5-4257-8d1d-4444e8782352)
 
 
 ![Screenshot 2024-07-13 132758](https://github.com/user-attachments/assets/c270adb3-e2fd-4d63-8879-6572e9842102)
+
 
 ![Screenshot 2024-07-13 132828](https://github.com/user-attachments/assets/d5570825-da14-4798-b1ff-d14c6111b760)
 
