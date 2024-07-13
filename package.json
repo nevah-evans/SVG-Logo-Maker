@@ -7,6 +7,6 @@
     "inquirer": "^8.2.6"
   },
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^28.1.3"
   }
 }
